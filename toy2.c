@@ -7,7 +7,7 @@
 
 void test_00100()
 {
-  STATIC_ALLOC(arr, 1);
+  STATIC_ALLOC(arr, 10);
   randacc(arr, 20);
 }
 
