@@ -6,7 +6,7 @@
 #include <stdint.h>
 #include <string.h>
 
-#define ub1 uint32_t
+#define ub1 uint8_t
 
 void randacc(ub1* arr, int idx);
 
